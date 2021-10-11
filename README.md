@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @princesison
-- 👀 I’m interested in Python Programming
-- 🌱 I’m currently learning Python Language
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning JavaScript Language
 - 💞️ I’m looking to collaborate on Web Development Projects
 
 <!---
