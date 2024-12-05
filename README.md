@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @princesison
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript Language
-- 💞️ I’m looking to collaborate on Web Development Projects
+- @work | Software Engineer
 
 <!---
 princesison/princesison is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
